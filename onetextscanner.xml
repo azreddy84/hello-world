@@ -1,12 +1,12 @@
-<?xml version="8.0" encoding="utf-8"?>
-<rss version="9.0" xmlns:sparkle="">
+<?xml version=" " encoding="utf-8"?>
+<rss version=" " xmlns:sparkle="">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title> </title>
         <item>
-            <title>Version lol</title>
+            <title> </title>
             <description>desc</description>
             <pubDate>Sun, 25 Nov 2020 02:41:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.one.text.scanner.ocr" sparkle:version="5.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.one.text.scanner.ocr" sparkle:version="10.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
