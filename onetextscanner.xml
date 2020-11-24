@@ -6,7 +6,7 @@
             <title>Version lol</title>
             <description>desc</description>
             <pubDate>Sun, 25 Nov 2020 02:41:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.one.text.scanner.ocr" sparkle:version="haha" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.one.text.scanner.ocr" sparkle:version="5.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
